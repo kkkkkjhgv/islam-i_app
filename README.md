@@ -94,8 +94,8 @@ A comprehensive Flutter application designed for Muslims to read the Quran, expl
 
 1. **Clone the repository**
    ```bash
-   git clone git@github.com:kkkkkjhgv/islami_app.git
-   cd islami_app
+   git clone https://github.com/kkkkkjhgv/islam-i_app.git
+   cd islam-i_app
    ```
 
 2. **Install dependencies**
@@ -230,7 +230,7 @@ This project is private and owned by kkkkkjhgv.
 
 ## 🔗 Repository
 
-[GitHub Repository](https://github.com/kkkkkjhgv/islami_app)
+[GitHub Repository](https://github.com/kkkkkjhgv/islam-i_app)
 
 ## 👨‍💻 Developer
 
@@ -245,6 +245,4 @@ This project is private and owned by kkkkkjhgv.
 - Open source community for inspiration
 - All contributors who helped make this project possible
 
-  
- 
- 
+ 
